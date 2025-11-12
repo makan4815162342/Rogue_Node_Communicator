@@ -1,7 +1,9 @@
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_sw3expsw3expsw3e" src="https://github.com/user-attachments/assets/f4306d84-9ed3-4007-a174-288bed739b0d" />
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_vkw3rtvkw3rtvkw3_2" src="https://github.com/user-attachments/assets/20f11524-17b1-43a9-95fd-47691a47b266" />
+
+https://github.com/user-attachments/assets/705a0a50-21b6-419b-80ea-0ae4a1e1f1d1
+
 
 # Rogue_Node_Communicator
 # 📡 Rogue Node Communicator (RNC)
@@ -72,3 +74,8 @@ Contributions are welcome! If you find a bug or have an idea for a new feature (
 ## 📜 License
 
 GPL v 3.0
+
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_vkw3rtvkw3rtvkw3_2" src="https://github.com/user-attachments/assets/20f11524-17b1-43a9-95fd-47691a47b266" />
+
+https://github.com/user-attachments/assets/d4fd7333-dbe6-4851-939f-ac8c40788470
