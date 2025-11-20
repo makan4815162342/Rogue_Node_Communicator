@@ -75,6 +75,8 @@ Contributions are welcome! If you find a bug or have an idea for a new feature (
 
 GPL v 3.0
 
+<img width="2560" height="1080" alt="Desktop Screenshot 2025 11 20 - 19 04 15 01" src="https://github.com/user-attachments/assets/1b84b6f2-9958-4124-8c3d-2ac2e6a4a282" />
+
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_vkw3rtvkw3rtvkw3_2" src="https://github.com/user-attachments/assets/20f11524-17b1-43a9-95fd-47691a47b266" />
 
