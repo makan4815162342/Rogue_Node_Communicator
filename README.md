@@ -5,6 +5,10 @@
 https://github.com/user-attachments/assets/705a0a50-21b6-419b-80ea-0ae4a1e1f1d1
 
 
+<img width="2560" height="1080" alt="Desktop Screenshot 2025 11 22 - 10 35 02 46" src="https://github.com/user-attachments/assets/505341a1-f968-4f54-87b2-f93d565ee885" />
+
+
+
 # Rogue_Node_Communicator
 # 📡 Rogue Node Communicator (RNC)
 
