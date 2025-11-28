@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/705a0a50-21b6-419b-80ea-0ae4a1e1f1d1
 
 RNC Tutorial:
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_vkw3rtvkw3rtvkw3_2" src="https://github.com/user-attachments/assets/18467cc7-f981-435c-8e25-438102e4a5be" />
+<img width="1080" height="1080" alt="Thumbnail_RNC_2" src="https://github.com/user-attachments/assets/80dbfc86-b289-4336-919a-87139c0a8cbf" />
 
 https://youtu.be/kahQKzZo_Ek?si=Z3qyQQDgL5PSwPPL
 
